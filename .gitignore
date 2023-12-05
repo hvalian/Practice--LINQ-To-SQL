@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LINQ-To-SQL/bin/Debug
+/LINQ-To-SQL/obj/x86/Debug
